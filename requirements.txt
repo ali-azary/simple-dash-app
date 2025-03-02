@@ -122,8 +122,6 @@ gTTS==2.5.2
 h11==0.14.0
 h5py==3.11.0
 hangul-romanize==0.1.0
-# Editable install with no version control (HarmonicPatterns==0.0.1)
--e c:\users\aliaz\downloads\compressed\harmonicpatterns-main\src
 hmmlearn==0.3.3
 html5lib==1.1
 httpcore==1.0.5
