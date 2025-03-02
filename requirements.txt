@@ -1,7 +1,7 @@
 dash
 pandas
 pyqt5
-pyqt5.webenginewidgets
+PyQtWebEngine
 requests
 datetime
 plotly
