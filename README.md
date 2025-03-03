@@ -152,7 +152,8 @@ python app.py
 
 This will launch both the Dash web server and the PyQt5 application window displaying the dashboard, which looks like this:
 
-![[Pasted image 20250303040149.png]]
+![image](https://github.com/user-attachments/assets/0efc954c-385e-4a9e-a63a-45bbf365f403)
+
 ### Step 6: Deploying the Dash App Online
 
 To deploy the Dash app on platforms like [Render](https://render.com/) or [Heroku](https://www.heroku.com/):
