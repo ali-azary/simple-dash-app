@@ -130,6 +130,8 @@ class DashWindow(QMainWindow):
         container = QWidget()
         container.setLayout(layout)
         self.setCentralWidget(container)
+
+server = app.server
         
 if __name__ == '__main__':
     app.run_server(debug=True)
